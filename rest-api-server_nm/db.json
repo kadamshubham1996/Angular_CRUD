@@ -1,0 +1,304 @@
+{
+  "students": [
+    {
+      "id": "5a8072cdc35c6706b7d00bd7",
+      "rollno": 2,
+      "firstName": "Myrna",
+      "lastName": "Lloyd",
+      "email": "myrnalloyd@savvy.com",
+      "contactNo": "+1 (866) 465-2459",
+      "address": "309 Emmons Avenue, Allensworth, Virgin Islands",
+      "course": "Angular5",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd8191d5a89c0c572e",
+      "rollno": 3,
+      "firstName": "Andrews",
+      "lastName": "Conner",
+      "email": "andrewsconner@savvy.com",
+      "contactNo": "+1 (854) 544-3559",
+      "address": "149 Greene Avenue, Lookingglass, Marshall Islands",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd23c5660ad0369083",
+      "rollno": 4,
+      "firstName": "Head",
+      "lastName": "Carlson",
+      "email": "headcarlson@savvy.com",
+      "contactNo": "+1 (886) 458-2666",
+      "address": "704 Senator Street, Brantleyville, New Hampshire",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd99daf267570d8e0d",
+      "rollno": 5,
+      "firstName": "Spears",
+      "lastName": "Guthrie",
+      "email": "spearsguthrie@savvy.com",
+      "contactNo": "+1 (853) 503-2611",
+      "address": "607 Nostrand Avenue, Tonopah, Virginia",
+      "course": ".Net",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cdab78d88ee2867059",
+      "rollno": 6,
+      "firstName": "Hickman",
+      "lastName": "Pace",
+      "email": "hickmanpace@savvy.com",
+      "contactNo": "+1 (819) 485-3501",
+      "address": "423 Brevoort Place, Nogal, Iowa",
+      "course": "JAVA",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd403a97ad81c9c7c6",
+      "rollno": 7,
+      "firstName": "Manuela",
+      "lastName": "Wells",
+      "email": "manuelawells@savvy.com",
+      "contactNo": "+1 (809) 500-3821",
+      "address": "579 Devoe Street, Boomer, Maine",
+      "course": "ReactJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd66d058ff967e9656",
+      "rollno": 8,
+      "firstName": "Peters",
+      "lastName": "Kline",
+      "email": "peterskline@savvy.com",
+      "contactNo": "+1 (918) 450-3503",
+      "address": "174 Lake Place, Rivereno, Indiana",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd71c513141fee9095",
+      "rollno": 9,
+      "firstName": "Walker",
+      "lastName": "Reed",
+      "email": "walkerreed@savvy.com",
+      "contactNo": "+1 (934) 444-3716",
+      "address": "296 Front Street, Kent, Minnesota",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd36fb80e77ef08487",
+      "rollno": 10,
+      "firstName": "Berger",
+      "lastName": "Phillips",
+      "email": "bergerphillips@savvy.com",
+      "contactNo": "+1 (949) 582-2565",
+      "address": "127 Grove Street, Enetai, Rhode Island",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd17799e35cb99e6e3",
+      "rollno": 11,
+      "firstName": "David",
+      "lastName": "Craft",
+      "email": "davidcraft@savvy.com",
+      "contactNo": "+1 (836) 460-2666",
+      "address": "932 Lefferts Avenue, Fowlerville, California",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd81fb1a8340dbe487",
+      "rollno": 12,
+      "firstName": "Booth",
+      "lastName": "Juarez",
+      "email": "boothjuarez@savvy.com",
+      "contactNo": "+1 (934) 599-3721",
+      "address": "391 Columbia Place, Glidden, Wyoming",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd1926c1dd28bfe6c4",
+      "rollno": 13,
+      "firstName": "Martin",
+      "lastName": "Barton",
+      "email": "martinbarton@savvy.com",
+      "contactNo": "+1 (905) 576-2408",
+      "address": "548 Ryder Street, Osmond, Wisconsin",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cde2e9fa2900c71a9c",
+      "rollno": 14,
+      "firstName": "Marva",
+      "lastName": "White",
+      "email": "marvawhite@savvy.com",
+      "contactNo": "+1 (987) 419-3403",
+      "address": "287 Coles Street, Haena, Alaska",
+      "course": "Angular5",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd1f991402c1d05715",
+      "rollno": 15,
+      "firstName": "Aileen",
+      "lastName": "Walls",
+      "email": "aileenwalls@savvy.com",
+      "contactNo": "+1 (923) 407-3225",
+      "address": "391 Kings Hwy, Dawn, Northern Mariana Islands",
+      "course": ".Net",
+      "education": "MCA"
+    },
+    {
+      "id": "5a8072cdb0dc32e91c6dc71e",
+      "rollno": 16,
+      "firstName": "Pacheco",
+      "lastName": "Carrillo",
+      "email": "pachecocarrillo@savvy.com",
+      "contactNo": "+1 (998) 433-2737",
+      "address": "418 Orange Street, Rockingham, New Mexico",
+      "course": "JAVA",
+      "education": "MCS"
+    },
+    {
+      "id": "5a8072cd700c2b86b6790be4",
+      "rollno": 17,
+      "firstName": "Carey",
+      "lastName": "Solis",
+      "email": "careysolis@savvy.com",
+      "contactNo": "+1 (889) 480-2335",
+      "address": "407 Blake Court, Bakersville, Texas",
+      "course": "AngularJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd2b5454637b08f666",
+      "rollno": 18,
+      "firstName": "Mcgowan",
+      "lastName": "William",
+      "email": "mcgowanwilliam@savvy.com",
+      "contactNo": "+1 (865) 518-2992",
+      "address": "717 Gelston Avenue, Holtville, Delaware",
+      "course": "ReactJS",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd2a22713d4037e3fd",
+      "rollno": 19,
+      "firstName": "Flores",
+      "lastName": "Solomon",
+      "email": "floressolomon@savvy.com",
+      "contactNo": "+1 (883) 553-3321",
+      "address": "163 Highlawn Avenue, Cataract, New York",
+      "course": "Advance JAVA",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cd6a380791a20783b7",
+      "rollno": 20,
+      "firstName": "Herman",
+      "lastName": "Bradford",
+      "email": "hermanbradford@savvy.com",
+      "contactNo": "+1 (804) 562-3412",
+      "address": "894 Crescent Street, Orason, Palau",
+      "course": "Angular5",
+      "education": "MCA"
+    },
+    {
+      "id": "5a8072cd508101c2eb689cfe",
+      "rollno": 21,
+      "firstName": "Curtis",
+      "lastName": "Franco",
+      "email": "curtisfranco@savvy.com",
+      "contactNo": "+1 (895) 588-3278",
+      "address": "464 Quincy Street, Waverly, Mississippi",
+      "course": "Testing Diploma",
+      "education": "BE"
+    },
+    {
+      "id": "5a8072cde4d7693a122bb52f",
+      "rollno": 22,
+      "firstName": "Ingrid",
+      "lastName": "Larson",
+      "email": "ingridlarson@savvy.com",
+      "contactNo": "+1 (916) 572-3468",
+      "address": "290 Clermont Avenue, Muir, Puerto Rico",
+      "course": ".Net",
+      "education": "MCS"
+    },
+    {
+      "id": "5a8072cd1885e04351456a43",
+      "rollno": 23,
+      "firstName": "Mollie",
+      "lastName": "Simon",
+      "email": "molliesimon@savvy.com",
+      "contactNo": "+1 (870) 490-2925",
+      "address": "298 Columbus Place, Noxen, Guam",
+      "course": "JAVA",
+      "education": "BE"
+    },
+    {
+      "id": "WOAV8gT",
+      "rollno": 0,
+      "firstName": "jn",
+      "lastName": "",
+      "email": "",
+      "contactNo": "",
+      "address": "",
+      "course": "",
+      "education": ""
+    }
+  ],
+  "teachers": [
+    {
+      "id": "5a81c73734134350d0448be1",
+      "name": "Maryellen Drake",
+      "email": "maryellendrake@savvy.com",
+      "contactNo": "+1 (923) 423-3227",
+      "designation": "TL",
+      "subject": "JAVA",
+      "experience": 4
+    },
+    {
+      "id": "5a81c73778cb197427f30345",
+      "name": "Tamra Perkins",
+      "email": "tamraperkins@savvy.com",
+      "contactNo": "+1 (911) 493-3581",
+      "designation": "TL",
+      "subject": "JAVA",
+      "experience": 4
+    },
+    {
+      "id": "5a81c737115404761829e1b5",
+      "name": "Colette Snow",
+      "email": "colettesnow@savvy.com",
+      "contactNo": "+1 (995) 460-2474",
+      "designation": "TL",
+      "subject": "AngularJS",
+      "experience": 6
+    },
+    {
+      "id": "5a81c7370716526b26cfedd3",
+      "name": "Liz Lee",
+      "email": "lizlee@savvy.com",
+      "contactNo": "+1 (858) 473-2244",
+      "designation": "TL",
+      "subject": "Angular5",
+      "experience": 8
+    },
+    {
+      "id": "5a81c737b502735020b953e0",
+      "name": "Johnston Carney",
+      "email": "johnstoncarney@savvy.com",
+      "contactNo": "+1 (831) 408-3667",
+      "designation": "TL",
+      "subject": ".Net",
+      "experience": 5
+    }
+  ]
+}
